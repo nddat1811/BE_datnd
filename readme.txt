@@ -1,0 +1,13 @@
+github.com/DATA-DOG/go-sqlmock v1.5.0
+	github.com/dgrijalva/jwt-go v3.2.0+incompatible
+	github.com/gin-contrib/cors v1.4.0
+	github.com/gin-gonic/gin v1.8.1
+	github.com/golang/mock v1.6.0
+	github.com/sendgrid/sendgrid-go v3.11.1+incompatible
+	github.com/stretchr/testify v1.8.0
+	github.com/subosito/gotenv v1.2.0
+	github.com/swaggo/gin-swagger v1.3.0
+	github.com/swaggo/swag v1.8.3
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	gorm.io/driver/mysql v1.3.4
+	gorm.io/gorm v1.23.6
